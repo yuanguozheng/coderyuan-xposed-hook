@@ -1,0 +1,4 @@
+rootProject.name='XposedHook'
+include ':app'
+include ':hooklib'
+include ':compiler'
